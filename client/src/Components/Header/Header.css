@@ -1,0 +1,29 @@
+.carts ul li {
+    border-right: 1px solid;
+    margin-left: 2px;
+}
+.logo{
+    width: 120px;
+}
+.carts ul li a{
+    color: #EE478C;
+}
+.centers{
+    align-items: center;
+    justify-content: center;
+}
+.navbar-nav .nav-link{
+    color: #292B2D!important;
+    font-weight: 500;
+    font-size: 1.2rem;
+
+}
+.navbar-nav .nav-link:hover{
+    color: #e7b324!important;
+   
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+}
